@@ -1,6 +1,14 @@
-A final project for EDX
-
 # TrelloLike App
+
+#### Because of privacy: Am not sharing any video link, instead, i supposed, this readme file is enough to describe my project
+
+#### Description: A final project for EDX - CS50's Introduction to Computer Science -
+
+You can run directly the project with:
+```
+npm run serve
+```
+So you can see as long as you test it.
 
 <!-- TABLE OF CONTENTS -->
 <details>
